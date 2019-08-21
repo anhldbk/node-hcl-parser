@@ -1,0 +1,14 @@
+{
+  "name": "hcl-parser",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "A HCL (HashiCorp Configuration Language) Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "author": "Andy Le (anhldbk@gmail.com)"
+}
