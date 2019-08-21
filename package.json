@@ -1,7 +1,7 @@
 {
   "name": "hcl-parser",
   "homepage": "https://github.com/anhldbk/hcl-parser#overview",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "description": "A HCL (HashiCorp Configuration Language) Parser",
   "main": "index.js",
