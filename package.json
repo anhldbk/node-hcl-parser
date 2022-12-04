@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^29.3.1"
   },
   "author": "Andy Le (anhldbk@gmail.com)"
 }
